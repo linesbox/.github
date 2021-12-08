@@ -3,7 +3,7 @@
 
 #### Before Linesbox: Projects feel scattered, things slip, it’s tough to see where things stand, and people are stressed. 
 #### After Linesbox: Everything’s organized in one place, you’re on top of things, progress is clear, and a sense of calm sets in.
-<img src="https://www.linesbox.com/assets/landing/office.png" alt="Linesbox office" title="Linesbox" />
+<img src="https://linesbox.com/assets/landing/office.png" alt="Linesbox office" title="Linesbox" />
 
 # One place, not all over the place.
 Remote work is especially challenging when stuff’s spread out across emails, file services, task managers, spreadsheets, chats, meetings, etc. Things get lost, you don’t know where to look for stuff, and people put the right information in the wrong place.
